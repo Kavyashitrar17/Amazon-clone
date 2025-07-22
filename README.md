@@ -3,14 +3,6 @@
 This is a **Frontend Amazon Clone Website** built using **HTML** and **CSS**.  
 The project replicates the basic Amazon homepage layout including the navigation bar, hero section, product cards, and footer.
 
-## 🖥️ Live Demo
-
-👉 [View Live on GitHub Pages](https://kavyashitrar17.github.io/amazon-clone/)
-
-## 📸 Project Preview
-
-![Amazon Clone Preview](./preview.png)
-
 ## 🛠️ Tech Stack
 - HTML5
 - CSS3
